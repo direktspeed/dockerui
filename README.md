@@ -1,3 +1,29 @@
+Merging Michaels ui
+ - Adding Multi Host Support via parameter
+Merging https://github.com/emblica/airfield
+Merging https://passwordless.net/
+Merging Harp
+Merging passport
+Merging https://github.com/atc-/docker-registry-web
+Merging hipache
+Merging https://github.com/DirektSPEED/hipcheck-memcached
+
+
+
+:TODO 
+Make Installer for docker and docker registry
+
+Concept:
+Michael Provides Docker WebUI Multi Host
+Passport Provides Auth
+Harp Provides Serving of Content 
+docker-registry-web will manage private docker registrys
+
+
+
+
+
+
 ## DockerUI
 
 ![Containers](/containers.png)
